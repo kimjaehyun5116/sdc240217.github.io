@@ -266,11 +266,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    text-align: center;
-    color: blue;
+    text-align: left;
+    color: black;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/paint-4191397.jpg');
-    background-position: left center; 
+    background-position: center center; 
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -286,7 +286,7 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 22px;
+    font-size: 35px;
     font-style: italic;
     line-height: 22px;
 }

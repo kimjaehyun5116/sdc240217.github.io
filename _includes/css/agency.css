@@ -287,8 +287,8 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 50px;
-    font-style: italic;
-    line-height: 22px;
+    font-weight: 700;
+    line-height: 50px;
 }
 
 header .intro-text .intro-heading {
@@ -296,8 +296,8 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 35px;
-    font-weight: 700;
-    line-height: 50px;
+    font-style: italic;
+    line-height: 22px;
 }
 
 @media(min-width:768px) {

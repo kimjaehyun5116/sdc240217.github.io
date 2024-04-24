@@ -3,7 +3,7 @@ title: 현장4
 subtitle: 실제 작업 현장
 layout: default
 modal-id: 1
-date: 2024-1-02
+date: 2024-01-02
 img: 04.png
 thumbnail: 04.png
 alt: image-alt

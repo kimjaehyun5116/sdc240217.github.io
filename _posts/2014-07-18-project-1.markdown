@@ -1,14 +1,13 @@
 ---
-title: 외벽보수작업
-subtitle: Website Design
+title: 현장1
+subtitle: 실제 작업 현장
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: 01.jpg
-thumbnail: 01.jpg
+thumbnail: 01.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: xx아파트 외벽보수작업 현장 사진입니다
+category: 실제 작업 현장
+description:  현장 작업 사진입니다
 ---

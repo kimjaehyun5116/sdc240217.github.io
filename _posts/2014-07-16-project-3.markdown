@@ -3,9 +3,9 @@ title: 현장3
 subtitle: 실제 작업 현장
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: 03.png
-thumbnail: 03.png
+date: 2023-12-04
+img: 03.jpg
+thumbnail: 03.jpg
 alt: image-alt
 project-date: April 2014
 category: 실제 작업 현장

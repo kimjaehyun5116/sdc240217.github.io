@@ -267,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: black
+    color: black;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/paint-4191397.jpg');
     background-position: center center; 
@@ -276,7 +276,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    opacity: 0.8
+    background-color: 0, 0, 0, 0.5;
 }
 
 header .intro-text {

@@ -267,10 +267,10 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: black;
+    color: blue;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/paint-4191397.jpg');
-    background-position: center center;
+    background-position: left center; 
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;

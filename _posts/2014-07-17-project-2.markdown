@@ -2,7 +2,7 @@
 title: 현장2
 subtitle: 실제 작업 현장
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2023-12-11
 img: 02.jpg
 thumbnail: 02.jpg

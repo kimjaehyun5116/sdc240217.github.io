@@ -4,7 +4,7 @@ subtitle: 실제 작업 현장
 layout: default
 modal-id: 4
 date: 2024-01-02
-img: 04.png
+img: 04.jpg
 thumbnail: 04.png
 alt: image-alt
 project-date: April 2014
